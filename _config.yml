@@ -2,7 +2,7 @@
 # ⚙️ Site Settings
 # -----------------------------------------------------------------------------
 
-title: Site Title
+title: Game Design
 email: Your email
 description: >-
   short description of the site
@@ -111,13 +111,13 @@ author:
       url: "https://www.linkedin.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"  
+      url: "https://github.com/Jaydenyounger/Jaydenyounger.github.io"  
     - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://itch.io"
     - label: "ArtStation"
       icon: "fab fa-fw fa-artstation"
-      url: "https://www.artstation.com/"
+      url: "https://www.artstation.com/jaydenyounger"
 
 # -----------------------------------------------------------------------------
 # 🚫 Exclusions
