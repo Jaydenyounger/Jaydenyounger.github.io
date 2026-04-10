@@ -12,7 +12,7 @@ project_role: "Art lead"
 project_tools: "Unity, Blender, Zbrush, Substance painter"
 project_date: "Coming Soon"
 ---
-## Heading 
+## About
  A group of 6 adventurers embarks on a dungeon run as employees of the corporate dungeon-running monolith, Mordred Acquisitions Incorporated. 
 
    Unbeknownst to the party, their employers intend to use them as guinea pigs to study a mysterious curse that lies within the dungeon. Upon clearing the first floor, the party is struck by the curse, linking their lifeforce together. In the ensuing chaos, the dungeon collapses, separating the leader from the rest of the group.

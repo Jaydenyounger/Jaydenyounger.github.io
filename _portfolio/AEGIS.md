@@ -12,7 +12,7 @@ project_role: "Team Lead and Game Designer"
 project_tools: "Unreal Engine version 5.4.4, Blender, Substance Painter"
 project_date: "April 7, 2026"
 ---
-## Heading 
+## About
 Aegis is an infinite FPS arena built on precision, momentum, and controlled aggression. Your shield isn’t just defense, it’s your weapon. Charge it, ricochet it off walls, and tear through enemies as each round grows faster, deadlier, and more relentless.
 
 ## External Assets & Libraries

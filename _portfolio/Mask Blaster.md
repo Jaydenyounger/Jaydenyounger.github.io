@@ -12,7 +12,7 @@ project_role: "Team Lead and Game Designer"
 project_tools: "Unreal Engine version 5.4.4"
 project_date: "February 1st, 2026"
 ---
-## Heading 
+## About
 This game is a PvE arena game where you run, jump, and eliminate enemies. The longer you last and the more enemies you eliminate, the higher the score you earn. 
 
 Taking some inspiration from games like Ghostrunner. The game ends when the player gets hit by an enemy once, not twice or 3 times, once. At the end, the player will see their score and will be able to choose to quit the game or retry. 
