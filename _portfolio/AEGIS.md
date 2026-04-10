@@ -7,7 +7,7 @@ header:
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "Short sidebar summary of project requirements/needs."
+project_brief: "First person shield basher"
 project_role: "Team Lead and Game Designer"
 project_tools: "Unreal Engine version 5.4.4, Blender, Substance Painter"
 project_date: "April 7, 2026"

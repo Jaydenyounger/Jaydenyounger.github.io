@@ -7,7 +7,7 @@ header:
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "Rouge-like"
+project_brief: "Multiplayer Rouge-like"
 project_role: "Art lead"
 project_tools: "Unity, Blender, Zbrush, Substance painter"
 project_date: "Coming Soon"

@@ -7,7 +7,7 @@ header:
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "Short sidebar summary of project requirements/needs."
+project_brief: "3rd person character action game"
 project_role: "Creative lead"
 project_tools: "Unreal Engine version 5.4.4, Blender, Zbrush, Maya, Substance Painter"
 project_date: "Coming Soon"

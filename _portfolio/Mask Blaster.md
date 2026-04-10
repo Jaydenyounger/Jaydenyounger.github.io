@@ -7,7 +7,7 @@ header:
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "FPS"
+project_brief: "FPS arena shooter"
 project_role: "Team Lead and Game Designer"
 project_tools: "Unreal Engine version 5.4.4"
 project_date: "February 1st, 2026"
