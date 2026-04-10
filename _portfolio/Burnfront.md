@@ -7,10 +7,6 @@ header:
   teaser: 
   overlay_filter: 0.5
 
-<p align="center">
-  <img src="/assets/images/AEGIS Title.jpg" alt="Assets I made">
-</p>
-
 project_brief: "3rd person character action game"
 project_role: "Creative lead"
 project_tools: "Unreal Engine version 5.4.4, Blender, Zbrush, Maya, Substance Painter"

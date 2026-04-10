@@ -3,7 +3,7 @@ title: "AEGIS"
 excerpt: "Play as a Spartan warrior cursed by Olympus, trapped in an endless cycle of divine punishment. Armed with nothing but a living shield, you must survive whatever the gods unleash."
 
 header:
-  overlay_image: 
+  overlay_image: /assets/images/AEGIS Title.jpg
   teaser: 
   overlay_filter: 0.5
 
