@@ -8,19 +8,16 @@ header:
   overlay_filter: 0.5
 
 project_brief: "Short sidebar summary of project requirements/needs."
-project_role: "Your role on the project"
+project_role: "Team Lead and Game Designer"
 project_tools: "Unreal Engine version 5.4.4, Blender, Substance Painter"
 project_date: "April 7, 2026"
 ---
 ## Heading 
-Written deliverables go here
+Aegis is an infinite FPS arena built on precision, momentum, and controlled aggression. Your shield isn’t just defense, it’s your weapon. Charge it, ricochet it off walls, and tear through enemies as each round grows faster, deadlier, and more relentless.
 
 ## External Assets & Libraries
 - List out external assets and licences 
 ---
 
 ### Resources
-- List links to resources on the project, for example
-- Link to Github repo for project
-- Link to piece on ArtStation
-- Link to Itch.io game project was used for
+- https://jaydenyounger.itch.io/aegis
