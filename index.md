@@ -13,9 +13,9 @@ feature_row:
 ---
 
 
-# Title
+# Jayden Younger
 
-Page content
+Game Designer, Artist, and Programmer
 
 
 {% include feature_row %}
