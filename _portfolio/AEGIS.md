@@ -20,4 +20,4 @@ Aegis is an infinite FPS arena built on precision, momentum, and controlled aggr
 ---
 
 ### Resources
-- https://jaydenyounger.itch.io/aegis
+- [Download the game here] https://jaydenyounger.itch.io/aegis

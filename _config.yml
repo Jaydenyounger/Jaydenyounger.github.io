@@ -3,20 +3,20 @@
 # -----------------------------------------------------------------------------
 
 title: Game Design
-email: Your email
+email: dev.jaydenyounger@gmail.com
 description: >-
-  short description of the site
+  Collection of all my experiances
 
 # Branding & Social
 twitter_username: 
-github_username:  
+github_username: Jaydenyounger
 
 # -----------------------------------------------------------------------------
 # 🛠️ Build Settings
 # -----------------------------------------------------------------------------
 
 baseurl: "" 
-url: "https://yourusername.github.io"
+url: "https://jaydenyounger.itch.io/"
 
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
@@ -102,13 +102,13 @@ collections:
 # -----------------------------------------------------------------------------
 
 author:
-  name   : "Your Name"
+  name   : "Jayden Younger"
   avatar : "/assets/images/blank-profile-picture"
   bio    : "short bio line"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
+      url: "http://www.linkedin.com/in/jayden-younger-b501aa224"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Jaydenyounger/Jaydenyounger.github.io"  

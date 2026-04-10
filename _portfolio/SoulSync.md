@@ -26,4 +26,4 @@ project_date: "Coming Soon"
 ---
 
 ### Resources
-- https://rjp5546.itch.io/soulsync
+- [Download the game here] https://rjp5546.itch.io/soulsync
