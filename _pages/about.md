@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Page Title"
+title: "Jayden Younger"
 permalink: /about/
 author_profile: true
 ---
