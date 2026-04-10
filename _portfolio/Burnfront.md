@@ -19,7 +19,9 @@ Players step into the role of Kay, a freelance netrunner for the CCP (Cenova Cit
 
 As Kay delves deeper into Nexis, he will encounter relentless waves of corrupted entities called EXOs, digital constructs mutated by the virus, each with unique attack patterns and combat behaviors. To survive and come out victorious, Kay must master Burnfront’s combat system, which merges the fast-paced, combo-driven mechanics of Devil May Cry with the tactical, high-stakes encounters of a Souls-like. Each battle demands precision, timing, and mastery of Kay’s abilities, pushing players to adapt quickly against enemies.
 
-
+## External Assets & Libraries
+- List out external assets and licences 
+---
 
 ### Resources
 - https://jaydenyounger.itch.io/burnfront-combat-demo
