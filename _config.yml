@@ -34,13 +34,13 @@ plugins:
 # -----------------------------------------------------------------------------
 
 minimal_mistakes_skin: "default"
-site_author: "Your Name"
+site_author: "Jayden Younger"
 paginate: 5
 words_per_minute: 200
 
 # Masthead (Top Navigation) Settings
 logo: 
-masthead_title: "Site Title"
+masthead_title: "Designer"
 
 # Defaults for Posts and Pages
 defaults:
@@ -114,7 +114,7 @@ author:
       url: "https://github.com/Jaydenyounger/Jaydenyounger.github.io"  
     - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
-      url: "https://itch.io"
+      url: "https://jaydenyounger.itch.io/"
     - label: "ArtStation"
       icon: "fab fa-fw fa-artstation"
       url: "https://www.artstation.com/jaydenyounger"
