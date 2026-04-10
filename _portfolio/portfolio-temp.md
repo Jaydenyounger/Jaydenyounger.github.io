@@ -1,6 +1,6 @@
 ---
-title: "Title of Project"
-excerpt: "Short summary of project"
+title: "AEGIS"
+excerpt: "Play as a Spartan warrior cursed by Olympus, trapped in an endless cycle of divine punishment. Armed with nothing but a living shield, you must survive whatever the gods unleash."
 
 header:
   overlay_image: 
@@ -9,8 +9,8 @@ header:
 
 project_brief: "Short sidebar summary of project requirements/needs."
 project_role: "Your role on the project"
-project_tools: "list tools, separate with commas"
-project_date: "Date the project was completed"
+project_tools: "Unreal Engine version 5.4.4, Blender, Substance Painter"
+project_date: "April 7, 2026"
 ---
 ## Heading 
 Written deliverables go here
