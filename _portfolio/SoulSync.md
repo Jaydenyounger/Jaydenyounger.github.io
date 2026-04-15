@@ -26,4 +26,4 @@ Their path leads to an ancient forge swarmed by hostile company subordinates. At
 ---
 
 ### Resources
-- [Download the game here] https://rjp5546.itch.io/soulsync
+- [Download the game here](https://rjp5546.itch.io/soulsync)

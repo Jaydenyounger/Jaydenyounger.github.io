@@ -24,4 +24,4 @@ As Kay delves deeper into Nexis, he will encounter relentless waves of corrupted
 ---
 
 ### Resources
-- [Download the game here]https://jaydenyounger.itch.io/burnfront-combat-demo
+- [Download the game here](https://jaydenyounger.itch.io/burnfront-combat-demo)

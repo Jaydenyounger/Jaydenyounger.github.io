@@ -26,4 +26,4 @@ Weapons will be the prime focus; players will need to combo 4 weapons to crank a
 ---
 
 ### Resources
-- [Download the game here] https://damp-weasel.itch.io/mask-blaster
+- [Download the game here](https://damp-weasel.itch.io/mask-blaster)
