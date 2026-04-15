@@ -103,7 +103,7 @@ collections:
 
 author:
   name   : "Jayden Younger"
-  avatar : "/assets/images/blank-profile-picture"
+  avatar : "/assets/images/Profile.JPG"
   bio    : "short bio line"
   links:
     - label: "LinkedIn"
