@@ -18,6 +18,7 @@ In Burnfront, players are thrust into Nexis, a sprawling digital realm that acts
 Players step into the role of Kay, a freelance netrunner for the CCP (Cenova City Police), an elite hacker tasked with infiltrating Nexis to uncover the source of the virus. Kay’s mission is clear: trace the virus’s origin, contain its spread, and unmask the mastermind behind the attack. Armed with advanced hacking tools and combat abilities, Kay must navigate through intricately designed levels, each representing the infected corporate networks now twisted by the virus’s influence.
 
 As Kay delves deeper into Nexis, he will encounter relentless waves of corrupted entities called EXOs, digital constructs mutated by the virus, each with unique attack patterns and combat behaviors. To survive and come out victorious, Kay must master Burnfront’s combat system, which merges the fast-paced, combo-driven mechanics of Devil May Cry with the tactical, high-stakes encounters of a Souls-like. Each battle demands precision, timing, and mastery of Kay’s abilities, pushing players to adapt quickly against enemies.
+
 ---
 
 ### Resources

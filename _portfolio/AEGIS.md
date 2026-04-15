@@ -22,6 +22,7 @@ Aegis is an infinite FPS arena built on precision, momentum, and controlled aggr
 The enemies are ruthless as they are unyielding, but you are equally so.
 
 You are fast. You are powerful. You are relentless. Move with precision. Strike with force. Dominate through momentum.
+
 ---
 
 ### Resources

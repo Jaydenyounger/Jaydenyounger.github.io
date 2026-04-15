@@ -20,6 +20,7 @@ Taking some inspiration from games like Ghostrunner. The game ends when the play
 There will be one enemy type in this game. This enemy is basic, as in it will move around the player and continuously shoot range projectiles that the player must avoid. Numbers will be involved, where more and more enemies will spawn as the run continues, making it harder for the player to manage.
 
 Weapons will be the prime focus; players will need to combo 4 weapons to crank as much damage as they can. Weapons will tie into a bar that will fill up over time when they are not shooting. When the player uses ammo from these weapons, the meter goes down, and they will not be able to shoot till the meter fills. If players blast their ammo without care and instantly lose all matter, they will need to wait. If the player carefully manages resources and does not fire all ammo rapidly in one sitting, they will avoid the penalty and continuously fire weapons.
+
 ---
 
 ### Resources
