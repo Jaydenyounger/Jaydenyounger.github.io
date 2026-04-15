@@ -34,6 +34,14 @@ feature_row:
     url: "/portfolio/SoulSync/"
     btn_label: "View"
     btn_class: "btn--primary"
+
+  - image_path: /assets/images/Severon.JPG
+    alt: "Alternative text for image"
+    title: "Severon"
+    excerpt: "Enemy model for Burnfront"
+    url: "/portfolio/Severon/"
+    btn_label: "View"
+    btn_class: "btn--primary"
 ---
 
 
