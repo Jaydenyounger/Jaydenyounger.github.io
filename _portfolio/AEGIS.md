@@ -4,7 +4,7 @@ excerpt: "Play as a Spartan warrior cursed by Olympus, trapped in an endless cyc
 
 header:
   overlay_image: /assets/images/AEGIS Title.jpg
-  teaser: 
+  teaser: /assets/images/AEGIS Title.jpg
   overlay_filter: 0.5
 
 project_brief: "First person shield basher"
