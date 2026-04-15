@@ -20,9 +20,6 @@ Unbeknownst to the party, their employers intend to use them as guinea pigs to s
 Now a party of five, the survivors prepare to flee, with some holding onto the fading hope that their leader is still alive. As they trek through forests and swamps, they find them riddled with evidence that the company is invading and destroying natural environments for its own selfish goals. Through this journey, the party bonds, overcomes their differences, and a new hero rises to fill the role of "leader."
 
 Their path leads to an ancient forge swarmed by hostile company subordinates. At its heart, they find the architect of their demise: a company board member who intends to weaponize the party’s curse.  After revealing the captive former leader, the board member attempts a final execution to close the project. Still, the party triumphs in the end, escaping the company’s grasp and reuniting with their imprisoned comrade.
-
-## External Assets & Libraries
-- List out external assets and licences 
 ---
 
 ### Resources
