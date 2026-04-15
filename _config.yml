@@ -104,7 +104,7 @@ collections:
 author:
   name   : "Jayden Younger"
   avatar : "/assets/images/Profile.JPG"
-  bio    : "short bio line"
+  bio    : ""
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
