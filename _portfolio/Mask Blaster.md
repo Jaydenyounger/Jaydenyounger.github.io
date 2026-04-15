@@ -3,8 +3,8 @@ title: "Mask Blaster"
 excerpt: "Single arena PvE arena FPS game where you wake up and are a wielder of 4 masks"
 
 header:
-  overlay_image: 
-  teaser: 
+  overlay_image: /assets/images/Mask Blaster.png
+  teaser: /assets/images/MaskBlasterEnviroment.png
   overlay_filter: 0.5
 
 project_brief: "FPS arena shooter"

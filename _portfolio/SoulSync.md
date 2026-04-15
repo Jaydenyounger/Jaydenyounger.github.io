@@ -3,8 +3,8 @@ title: "Soul Sync"
 excerpt: "Soulsync is a PvE multiplayer roguelike where you and three friends take the helm to traverse treacherous lands and face uncertain odds. Set in an advanced sci-fi fantasy world, the land is controlled and corrupted by the influence of Mordred."
 
 header:
-  overlay_image: 
-  teaser: 
+  overlay_image: /assets/images/Soul Sync.png
+  teaser: /assets/images/Soul Sync.png
   overlay_filter: 0.5
 
 project_brief: "Multiplayer Rouge-like"
