@@ -27,3 +27,4 @@ You are fast. You are powerful. You are relentless. Move with precision. Strike 
 
 ### Resources
 - [Download the game here](https://jaydenyounger.itch.io/aegis)
+- [Gameplay footage](https://youtu.be/D95gUxiRr3w?si=FoPsNbf7c842giZY)
