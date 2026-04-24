@@ -42,6 +42,15 @@ feature_row:
     url: "/portfolio/Severon/"
     btn_label: "View"
     btn_class: "btn--primary"
+
+    
+  - image_path: /assets/images/IMP.jpg
+    alt: "Alternative text for image"
+    title: "IMP"
+    excerpt: "Enemy model for Burnfront"
+    url: "/portfolio/IMP/"
+    btn_label: "View"
+    btn_class: "btn--primary"
 ---
 
 
