@@ -23,5 +23,14 @@ Weapons will be the prime focus; players will need to combo 4 weapons to crank a
 
 ---
 
+## Developers
+- [Team lead: Jayden Younger](https://jaydenyounger.itch.io)
+- [Level Designer: Alex Homeyer](https://alexhomeyer.itch.io/)
+- [Game Artist: Cormac Bulmer](https://damp-weasel.itch.io/)
+- [Game Artist: Erielle Seigel](https://www.artstation.com/erielleseigel)
+- [Game Artist: Annette Lau](https://www.artstation.com/net-exe)
+
+---
+
 ### Resources
 - [Download the game here](https://damp-weasel.itch.io/mask-blaster)
