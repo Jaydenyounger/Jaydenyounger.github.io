@@ -42,13 +42,28 @@ feature_row:
     url: "/portfolio/Severon/"
     btn_label: "View"
     btn_class: "btn--primary"
-
     
   - image_path: /assets/images/IMP Icon.png
     alt: "Alternative text for image"
     title: "IMP"
     excerpt: "Enemy model for Burnfront"
     url: "/portfolio/IMP/"
+    btn_label: "View"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/Ravager.JPG
+    alt: "Alternative text for image"
+    title: "Ravager"
+    excerpt: "Enemy model for Burnfront"
+    url: "/portfolio/Ravager/"
+    btn_label: "View"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/Kay Walker.JPG
+    alt: "Alternative text for image"
+    title: "Kay Walker"
+    excerpt: "Character model for Burnfront"
+    url: "/portfolio/KayWalker.md/"
     btn_label: "View"
     btn_class: "btn--primary"
 ---
