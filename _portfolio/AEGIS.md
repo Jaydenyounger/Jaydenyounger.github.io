@@ -92,8 +92,7 @@ You are fast. You are powerful. You are relentless. Move with precision. Strike 
 
 > The game has been fully released and is up on the Unlikely Collaborator game jam.
 
-
-
+---
 
 ## Developers
 - [Team lead: Jayden Younger](https://jaydenyounger.itch.io)
@@ -104,8 +103,6 @@ You are fast. You are powerful. You are relentless. Move with precision. Strike 
 - [Game Artist: Annette Lau](https://www.artstation.com/net-exe)
 
 ---
-
-## Development
 
 ### Resources
 - [Download the game here](https://jaydenyounger.itch.io/aegis)
