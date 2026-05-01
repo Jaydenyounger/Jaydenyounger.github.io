@@ -1,6 +1,6 @@
 ---
-title: "Severon"
-excerpt: "Enemy model for Burnfront"
+title: "Dual Edge"
+excerpt: "Weapon model for Burnfront"
 
 header:
   overlay_image: /assets/images/Dual Edge.JPG
