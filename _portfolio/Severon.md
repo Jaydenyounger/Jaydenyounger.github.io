@@ -23,5 +23,6 @@ The mesh was modeled and rigged in Blender, sculpted in ZBrush, and Textured usi
 ---
 
 ### Resources
-- [Download the game here](https://jaydenyounger.itch.io/burnfront-combat-demo)
+- [Public game demo](https://jaydenyounger.itch.io/burnfront-combat-demo)
+- [Burfront cel shading](https://www.artstation.com/artwork/DLXBVG)
 - [Artstation project link](https://www.artstation.com/artwork/JrKgWz)

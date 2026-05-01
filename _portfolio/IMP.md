@@ -3,8 +3,8 @@ title: "IMP"
 excerpt: "Burnfront Enemy"
 
 header:
-  overlay_image: /assets/images/IMP.jpg
-  teaser: /assets/images/IMP.jpg
+  overlay_image: /assets/images/IMP Icon.png
+  teaser: /assets/images/IMP Icon.png
   overlay_filter: 0.5
 
 project_brief: "Enemy Character Model"
@@ -19,6 +19,6 @@ The IMP is the primary enemy that players will encounter in Burnfront. It is a b
 ---
 
 ### Resources
-- [IMP](https://www.artstation.com/artwork/6LWEGw)
+- [Artstation project link](https://www.artstation.com/artwork/6LWEGw)
 - [Public game demo](https://jaydenyounger.itch.io/burnfront-combat-demo)
 - [Burfront cel shading](https://www.artstation.com/artwork/DLXBVG)
