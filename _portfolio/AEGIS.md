@@ -29,8 +29,10 @@ You are fast. You are powerful. You are relentless. Move with precision. Strike 
 
 ## Development
 
-Initalized the basic project and had our most basic systems and Shield tracing path method guid the shield.
 [Development log: 1](https://jaydenyounger.itch.io/aegis/devlog/1472542/development-day-1)
+
+> Initalized the basic project and had our most basic systems and Shield tracing path method guid the shield.
+
 
 [Development log: 2](https://jaydenyounger.itch.io/aegis/devlog/1472545/devlopement-day-2)
 
